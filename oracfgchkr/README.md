@@ -18,7 +18,7 @@ Tested on RHEL and Oracle Linux 7.9 running Oracle 19c
 	
 # Download the script
 	Login to Linux host, where Oracle DB is running, switch to Oracle user account.
-	[oracle@linux ]$ curl -Ok "https://raw.githubusercontent.com/knshiva-cohesity/scripts/main/oracfgchkr/{prechckr.sh,cmds.input,t.sql}"
+	[oracle@linux ]$ curl -Ok "https://raw.githubusercontent.com/cohesity/Automation-Scripts/main/oracfgchkr/{prechckr.sh,cmds.input,t.sql}"
 	[oracle@linux ]$ chmod +x prechckr.sh
  
 # Parameters
